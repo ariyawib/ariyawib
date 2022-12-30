@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariya</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<h1> </h1>
+
 - 📫 How to reach me **ariya.wib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

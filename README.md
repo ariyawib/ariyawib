@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm Ariya Wibowo</h1>
+<h2 align="center">Greetings 👋, I'm Ariya Wibowo</h2>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 📫 How to reach me **ariya.wib@gmail.com**

@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 📫 How to reach me **ariya.wib@gmail.com**
+- Twitter : @ariyawib
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
